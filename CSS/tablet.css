@@ -1,0 +1,24 @@
+/* <<< === TABLET :- 769PX SCREEN SIZE === >>> */
+
+@media only screen and (max-width: 769px) {
+
+    /* -- === == Header == === -- */
+    .header_fix_width {
+        max-width: 90%;
+    }
+    .header_logo {
+        width: 11.5%;
+    }
+    /* -- === == Header End == === -- */
+
+    /* -- === == Footer == === -- */ 
+    .footer_bestvalue_box {
+        margin-left: 56px;
+    }
+    /* -- === == Footer End == === -- */
+
+    .footer_Location_box {
+        display: none;
+    }
+
+}
